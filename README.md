@@ -2,6 +2,7 @@
 Installing the k530 firmware to work in "VIA" to enable new backlight modes
 
 Important! I am not responsible if you damage your keyboard and it will not work, you do it at your own risk.
+When flashing with this method, Bluetooth will stop working!
 
 I wondered after buying my draconic k530, how can there be so few backlight modes for the rgb keyboard, then I started studying different aspects of the keyboard firmware and that's what happened.
 
