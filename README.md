@@ -50,6 +50,7 @@ We go to Sonix keyboard flasher, where our keyboard should be defined as Sonix d
 
 6) go to "settings" your keyboard should be determined on this page, well, then go to "lighting" and select the sub-panel mode.
 
+![PxSDRtwuyaM](https://user-images.githubusercontent.com/106192000/213776322-bc5f507d-d7fa-4d9a-ae6b-89e21a8a1ef7.jpg)
 
 
 (After that, your keyboard will not be displayed in the original program, but it will work completely).
@@ -62,3 +63,6 @@ Post image
 !!!!!
 
 If something went wrong and your keyboard does not work, it is necessary to forcibly enter the Loader mode, for this we disassemble the keyboard and turn over the board, find the chip there, and find a small round notch on it (this is our guideline) after that, follow this picture and find the 3 leg of the chip there, then clamp it with somethingthen metal and connect the keyboard to the power supply (Wire) while the RGB should not work, but you will hear that the computer has detected the connection (It may not work the first time), then open the ORIGINAL firmware (there is a folder in Google drive) and click on the green button, the values 0xc45 and 0x5004 will be displayed to the side of it and click on the blue button, and your keyboard will work again in normal mode (stock).
+![unknown](https://user-images.githubusercontent.com/106192000/213776346-946a29c8-c15b-478f-bfa8-db3c1e79f3d9.png)
+![IMG_20220529_174521](https://user-images.githubusercontent.com/106192000/213776552-cf0b4a91-d7b3-41c2-b31c-6b2046caf312.jpg)
+
