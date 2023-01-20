@@ -1,16 +1,15 @@
 # Redragon-k530-via-
 Installing the k530 firmware to work in "VIA" to enable new backlight modes
+
+Important! I am not responsible if you damage your keyboard and it will not work, you do it at your own risk.
+
 I wondered after buying my draconic k530, how can there be so few backlight modes for the rgb keyboard, then I started studying different aspects of the keyboard firmware and that's what happened.
 
 I used a Sonix USB MCU to flash my keyboard to work with openRGB, it worked in stock, but thanks to the firmware, new effects were discovered. But there was no one in it that interested me, then I learned about the program "VIA" which I could use it.
 
 Having logged on to the Sonix discord server, I turned to the guys for help, they provided me with the firmware files for the k530 to work with the "via" program.
 
-Important! I am not responsible if you damage your keyboard and it will not work, you do it at your own risk.
-
 And so I'll tell you what needs to be done to unlock the potential of the keyboard.
-
-
 
 We need the program "VIA"
 
